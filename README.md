@@ -1,1 +1,1 @@
-# Seismic-Waves-in-Petroleum-Identification
+# Seismic Waves in Petroleum Identification
