@@ -20,5 +20,9 @@ Thứ hai, Xử lý một lượng lớn dữ liệu địa chấn mà đã thu 
 Thứ ba, Sử dụng phần mềm trực quan GEOSIGNS để biến dữ liệu thành hình ảnh có thể phân tích hình dung và giải thích hàng tỷ tín hiệu trong hoạt động khai thác dầu khí.
 ![](http://careers.lpa.gov.lb/images/internship/bobo.jpeg)
 
+## Deep learning model
 
+## Dataset
+
+## Result
 
